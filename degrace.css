@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+}
+
+.neree{
+    border: 1px solid black;
+    padding: 1em;
+    width: 300px;
+    height: 350px;
+    border-radius: 1em;
+    background-color: rgb(195, 212, 212);
+}
+
+input{
+    width: 287px;
+    height: 30px;
+    text-align: right;
+    border-radius: 1em;
+    border: 1px solid black;
+    padding-inline-end: 10px;
+}
+
+.number{
+    padding: 1em;
+}
+
+button{
+    width: 60px;
+    height: 60px;
+    padding: 7px;
+    align-items: baseline;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+.equal{
+    background-color: rgb(243, 0, 0);
+}
