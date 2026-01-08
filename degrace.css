@@ -22,6 +22,17 @@ input{
 
 .number{
     padding: 1em;
+.verte{
+    background-color: green(243,0,0);
+}
+.rouge{
+    background-color: red (243,0,0);
+}
+.jaune{
+    background-color: yellow (243,0,0);
+}
+    
+}
 }
 
 button{
@@ -34,5 +45,5 @@ button{
 }
 
 .equal{
-    background-color: rgb(243, 0, 0);
+    background-color:blue (243, 0, 0);
 }
