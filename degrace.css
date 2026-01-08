@@ -1,5 +1,8 @@
 body{
     background-color: aqua;
+    align-items: center;
+    
+    
 }
 
 .neree{
@@ -9,6 +12,9 @@ body{
     height: 350px;
     border-radius: 1em;
     background-color: rgb(195, 212, 212);
+    
+    margin:auto;
+    
 }
 
 input{
@@ -22,18 +28,18 @@ input{
 
 .number{
     padding: 1em;
+}
 .verte{
-    background-color: green(243,0,0);
+    background-color: rgb(0,243,0);
 }
 .rouge{
-    background-color: red (243,0,0);
+    background-color:red;
 }
 .jaune{
-    background-color: yellow (243,0,0);
+    background-color: yellow ;
 }
     
-}
-}
+
 
 button{
     width: 60px;
@@ -45,5 +51,5 @@ button{
 }
 
 .equal{
-    background-color:blue (243, 0, 0);
+    background-color:blue ;
 }
